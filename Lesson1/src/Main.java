@@ -29,10 +29,10 @@ public class Main {
         String to = "jamolbek2609@gmail.com";
 
         // Sender's email ID needs to be mentioned
-        String from = "davalisher@gmail.com";
+        String from = "*******@gmail.com";
 
-        final String username = "davalisher";//change accordingly
-        final String password = "eqwyipiydybzyszr";//change accordingly
+        final String username = "******";//change accordingly
+        final String password = "********";//change accordingly
 
         // Assuming you are sending email through relay.jangosmtp.net
         String host = "smtp.gmail.com";
