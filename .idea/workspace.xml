@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab5f8fe8-189e-42d7-92a6-c1f597c1b746" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2-maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2-maven/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2-maven/src/main/java/uz/pdp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2-maven/src/main/java/uz/pdp/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/PDP Academy/Desktop/G28/Java development/5-modul",
+    "last_opened_file_path": "C:/Users/PDP Academy/Desktop/G28/Java development/5-modul/Lesson3",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",

@@ -7,6 +7,7 @@ import lombok.extern.java.Log;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.UnaryOperator;
 import java.util.logging.Level;
 
 @Log
@@ -28,9 +29,11 @@ public class Main {
                 .fullName("sdfsd")
                 .cba();
         log.log(Level.INFO,"sdfsdfsfsdfs");
+        List<Integer> integers=new ArrayList<>();
+        UnaryOperator
     }
 
-    private static List<Student> getStudentsStartsWith(String start) throws IOException {
+    private static List<Student> getStudentsStartsWith(String start) throws IOException, ClassNotFoundException {
         List<Student> students = new ArrayList<>();
         @Cleanup ObjectInputStream objectInputStream = new ObjectInputStream(new FileInputStream("src/main/java/students.txt"));
 
